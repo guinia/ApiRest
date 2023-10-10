@@ -1,0 +1,29 @@
+https://apirestconpag.onrender.com
+
+{
+  _links  {
+    localidads  {
+      href  httpsapirestconpag.onrender.comlocalidads{page,size,sort},
+      templated  true
+    },
+    domicilios  {
+      href  httpsapirestconpag.onrender.comdomicilios{page,size,sort},
+      templated  true
+    },
+    autors  {
+      href  httpsapirestconpag.onrender.comautors{page,size,sort},
+      templated  true
+    },
+    personae  {
+      href  httpsapirestconpag.onrender.compersonae{page,size,sort},
+      templated  true
+    },
+    libroes  {
+      href  httpsapirestconpag.onrender.comlibroes{page,size,sort},
+      templated  true
+    },
+    profile  {
+      href  httpsapirestconpag.onrender.comprofile
+    }
+  }
+}
